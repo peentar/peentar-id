@@ -6,7 +6,7 @@ English documentation: See README.en.md
 
 Tambahkan ini ke `Gemfile`:
 
-    gem 'peentar_id', '~> 1.0.0'
+    gem 'peentar_id', '~> 1.0.1'
 
 Kemudian jalankan `bundle`.
 

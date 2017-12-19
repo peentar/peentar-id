@@ -1,5 +1,5 @@
 module PeentarID
-  def set_config(name, default)
+  def self.set_config(name, default)
     name_string = name.to_s
     PeentarID.module_eval <<-EVAL
       def self.#{name_string}
